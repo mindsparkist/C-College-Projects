@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615578290 source:c:\users\shuvradip-laptop\desktop\cpp\tamplate\tamplate\main.cpp
+	<iostream>
+	<conio.h>
+
